@@ -103,4 +103,3 @@ The client utilizes Axios to make HTTP requests to the server-side API.
 ## Live Link
 The live project: [POSView](https://pos-view.vercel.app/login)
 
-"# POSView" 
