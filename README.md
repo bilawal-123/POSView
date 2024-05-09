@@ -13,32 +13,32 @@ POSView is a web application built using the MERN stack, which includes MongoDB,
 
 - **Bills**
 <p align="center">
-  <img alt="img-name" src="Images/Bills.png" width="700">
+ ![Bills](https://github.com/bilawal-123/POSView/assets/16979740/85faded5-5d53-4b1e-9bab-84c8952ffa7d)
+
 </p>
 
 - **Items**
 <p align="center">
-  <img alt="img-name" src="Images/Items.png" width="700">
+ ![Items](https://github.com/bilawal-123/POSView/assets/16979740/f5df434c-a6f1-4dad-8567-9921ccb2b5c4)
 </p>
 
 - **Add New Item**
 <p align="center">
-  <img alt="img-name" src="Images/Add New Item .png" width="700">
+![Add New Item ](https://github.com/bilawal-123/POSView/assets/16979740/0eeefa8b-3ba5-4866-adda-dd997f8daa2e)
+
 </p>
 
-- **Customers**
-<p align="center">
-  <img alt="img-name" src="Images/Customers.png" width="700">
-</p>
 
 - **Cart**
 <p align="center">
-  <img alt="img-name" src="Images/Cart.png" width="700">
+  ![Cart](https://github.com/bilawal-123/POSView/assets/16979740/bf838239-63d9-486e-a0d2-dea073b7cae5)
+
 </p>
 
 - **Invoice**
 <p align="center">
-  <img alt="img-name" src="Images/Invoice Details.png" width="700">
+  ![Invoice Details](https://github.com/bilawal-123/POSView/assets/16979740/8e5778f9-5c6e-44bb-b924-757512289a9e)
+
 </p>
 
 ## Installation
