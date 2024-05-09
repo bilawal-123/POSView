@@ -6,7 +6,7 @@ POSView is a web application built using the MERN stack, which includes MongoDB,
 
 - **Homepage**
 <p align="center">
-  <img alt="img-name" src="Images/Homepage.png" width="700">
+  <img alt="img-name" src="[Images/Homepage.png](https://raw.githubusercontent.com/OviSarkar62/POSView/main/Images/Homepage.png)" width="700">
 </p>
 
 - **Bills**
